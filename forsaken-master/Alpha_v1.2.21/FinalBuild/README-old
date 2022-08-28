@@ -1,0 +1,9 @@
+README
+
+BUGS:
+
+Medusa projectiles don't always move in the correct orientation towards the player.
+
+Sometimes the Spartan and Medusa get stuck on corners.
+
+Sometimes Spartans' don't hit you if you're not near their sword.

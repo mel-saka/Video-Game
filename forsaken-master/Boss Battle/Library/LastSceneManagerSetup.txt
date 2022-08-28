@@ -1,0 +1,5 @@
+sceneSetups:
+- path: /.Trashes/35307/Boss Battle/Assets/Sample Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 9dca493fbc17749dfbb36b1549b08afb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8053279108360812901
+    second: fantasy_epicweapons_pack_nobg_0
+  - first:
+      213: 2415389018176863196
+    second: fantasy_epicweapons_pack_nobg_1
+  - first:
+      213: 3154938967574834036
+    second: fantasy_epicweapons_pack_nobg_2
+  - first:
+      213: 5311660057535597739
+    second: fantasy_epicweapons_pack_nobg_3
+  - first:
+      213: 4348762736427161512
+    second: fantasy_epicweapons_pack_nobg_4
+  - first:
+      213: 4381748625342160433
+    second: fantasy_epicweapons_pack_nobg_5
+  - first:
+      213: -4944484299149198557
+    second: fantasy_epicweapons_pack_nobg_6
+  - first:
+      213: -2902513865963888558
+    second: fantasy_epicweapons_pack_nobg_7
+  - first:
+      213: 5769241912760161130
+    second: fantasy_epicweapons_pack_nobg_8
+  - first:
+      213: -9003968977438183970
+    second: fantasy_epicweapons_pack_nobg_9
+  - first:
+      213: -1323778557949380995
+    second: fantasy_epicweapons_pack_nobg_10
+  - first:
+      213: 2086448156007883982
+    second: fantasy_epicweapons_pack_nobg_11
+  - first:
+      213: 4296559786606535706
+    second: fantasy_epicweapons_pack_nobg_12
+  - first:
+      213: 6655446567115410305
+    second: fantasy_epicweapons_pack_nobg_13
+  - first:
+      213: 59044099054183372
+    second: fantasy_epicweapons_pack_nobg_14
+  - first:
+      213: -1734258302684264779
+    second: fantasy_epicweapons_pack_nobg_15
+  - first:
+      213: 6380491650628025732
+    second: fantasy_epicweapons_pack_nobg_16
+  - first:
+      213: -7785687942482687647
+    second: fantasy_epicweapons_pack_nobg_17
+  - first:
+      213: 3227880378268208906
+    second: fantasy_epicweapons_pack_nobg_18
+  - first:
+      213: 4346068886940575693
+    second: fantasy_epicweapons_pack_nobg_19
+  - first:
+      213: -5337681400470106730
+    second: fantasy_epicweapons_pack_nobg_20
+  - first:
+      213: -9091504026051591821
+    second: fantasy_epicweapons_pack_nobg_21
+  - first:
+      213: 1119176016406602424
+    second: fantasy_epicweapons_pack_nobg_22
+  - first:
+      213: 5805136364398034139
+    second: fantasy_epicweapons_pack_nobg_23
+  - first:
+      213: -201150273140125925
+    second: fantasy_epicweapons_pack_nobg_24
+  - first:
+      213: 8074771702034704510
+    second: fantasy_epicweapons_pack_nobg_25
+  - first:
+      213: -213011755978392097
+    second: fantasy_epicweapons_pack_nobg_26
+  - first:
+      213: 264639524633934193
+    second: fantasy_epicweapons_pack_nobg_27
+  - first:
+      213: 8000541084304655124
+    second: fantasy_epicweapons_pack_nobg_28
+  - first:
+      213: 2167070949564799259
+    second: fantasy_epicweapons_pack_nobg_29
+  - first:
+      213: 640957987902150957
+    second: fantasy_epicweapons_pack_nobg_30
+  - first:
+      213: 5049976295734154253
+    second: fantasy_epicweapons_pack_nobg_31
+  - first:
+      213: -959826620235560775
+    second: fantasy_epicweapons_pack_nobg_32
+  - first:
+      213: -4332011480471976676
+    second: fantasy_epicweapons_pack_nobg_33
+  - first:
+      213: -7743286539404800652
+    second: fantasy_epicweapons_pack_nobg_34
+  - first:
+      213: -7737482288002240396
+    second: fantasy_epicweapons_pack_nobg_35
+  - first:
+      213: -5862453128926488427
+    second: fantasy_epicweapons_pack_nobg_36
+  - first:
+      213: 7839933491537733105
+    second: fantasy_epicweapons_pack_nobg_37
+  - first:
+      213: -8618101855379355206
+    second: fantasy_epicweapons_pack_nobg_38
+  - first:
+      213: 522220626292545698
+    second: fantasy_epicweapons_pack_nobg_39
+  - first:
+      213: 7726991016282200259
+    second: fantasy_epicweapons_pack_nobg_40
+  - first:
+      213: -8153164033630669141
+    second: fantasy_epicweapons_pack_nobg_41
+  - first:
+      213: 3878047922243105241
+    second: fantasy_epicweapons_pack_nobg_42
+  - first:
+      213: -7215811325881429194
+    second: fantasy_epicweapons_pack_nobg_43
+  - first:
+      213: 3532241898442102148
+    second: fantasy_epicweapons_pack_nobg_44
+  - first:
+      213: 780492171884171591
+    second: fantasy_epicweapons_pack_nobg_45
+  - first:
+      213: 6444017098008689827
+    second: fantasy_epicweapons_pack_nobg_46
+  - first:
+      213: 1419924541904561275
+    second: fantasy_epicweapons_pack_nobg_47
+  - first:
+      213: -6592901308044525932
+    second: fantasy_epicweapons_pack_nobg_48
+  - first:
+      213: 6126397020556960063
+    second: fantasy_epicweapons_pack_nobg_49
+  - first:
+      213: 6402123209404335273
+    second: fantasy_epicweapons_pack_nobg_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569bbe25eaef2cf60800000000000000
+      internalID: 8053279108360812901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 133
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbbfc6c38f258120800000000000000
+      internalID: 2415389018176863196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 133
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47be552864898cb20800000000000000
+      internalID: 3154938967574834036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 130
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4a011eaec6b940800000000000000
+      internalID: 5311660057535597739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a752350ba8e95c30800000000000000
+      internalID: 4348762736427161512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5394c8291fcc30800000000000000
+      internalID: 4381748625342160433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b37b71ab9a16bb0800000000000000
+      internalID: -4944484299149198557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a39f540338b7d0800000000000000
+      internalID: -2902513865963888558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a635d51f3f6701050800000000000000
+      internalID: 5769241912760161130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde82b8be97b0380800000000000000
+      internalID: -9003968977438183970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 101
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f52c4a6ef0ade0800000000000000
+      internalID: -1323778557949380995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec46e1d1b8d84fc10800000000000000
+      internalID: 2086448156007883982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 101
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1429ec9c5270ab30800000000000000
+      internalID: 4296559786606535706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc1860465ec5c50800000000000000
+      internalID: 6655446567115410305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc325369b44c1d000800000000000000
+      internalID: 59044099054183372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b68bbf134daee7e0800000000000000
+      internalID: -1734258302684264779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7708d95f0c8850800000000000000
+      internalID: 6380491650628025732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 100
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1690740111ea3f390800000000000000
+      internalID: -7785687942482687647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f412c1a1cbbcc20800000000000000
+      internalID: 3227880378268208906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7687f40a6505c30800000000000000
+      internalID: 4346068886940575693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d05c8eb0fbce5b0800000000000000
+      internalID: -5337681400470106730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 69
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3714925d14d74d180800000000000000
+      internalID: -9091504026051591821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b26d0348ac188f00800000000000000
+      internalID: 1119176016406602424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 67
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcb5a834ccff8050800000000000000
+      internalID: 5805136364398034139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f820f64ee553df0800000000000000
+      internalID: -201150273140125925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 29
+        height: 29
+      alignment: 9
+      pivot: {x: 0.62888783, y: 0.601205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a72eb41a5f0070800000000000000
+      internalID: 8074771702034704510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 69
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddfcefbfea3b0df0800000000000000
+      internalID: -213011755978392097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_27
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179755bde303ca300800000000000000
+      internalID: 264639524633934193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 68
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413c5ec3ab1a70f60800000000000000
+      internalID: 8000541084304655124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 1.0573633, y: 1.0524576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19d0e70c8bf21e10800000000000000
+      internalID: 2167070949564799259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 36
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295bd0e4e325e800800000000000000
+      internalID: 640957987902150957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04906f5fae151640800000000000000
+      internalID: 5049976295734154253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b845e636c20ea2f0800000000000000
+      internalID: -959826620235560775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 36
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15cd8fa28a91e3c0800000000000000
+      internalID: -4332011480471976676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d86b80be15a8490800000000000000
+      internalID: -7743286539404800652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ffbf9ad0fe9490800000000000000
+      internalID: -7737482288002240396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59895f990f164aea0800000000000000
+      internalID: -5862453128926488427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f56bc909f90dcc60800000000000000
+      internalID: 7839933491537733105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98affe50a566880800000000000000
+      internalID: -8618101855379355206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_39
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 33
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a89c8c84ec4f3700800000000000000
+      internalID: 522220626292545698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c89224d369cb3b60800000000000000
+      internalID: 7726991016282200259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f3fb32842ade80800000000000000
+      internalID: -8153164033630669141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fd3bd90891d530800000000000000
+      internalID: 3878047922243105241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_43
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d89284d94cdb90800000000000000
+      internalID: -7215811325881429194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4859461ca4b050130800000000000000
+      internalID: 3532241898442102148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741112fbe7dd4da00800000000000000
+      internalID: 780492171884171591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_46
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf955a86fbd6950800000000000000
+      internalID: 6444017098008689827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_47
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 6
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a41809d594b310800000000000000
+      internalID: 1419924541904561275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e3cc6e03f4184a0800000000000000
+      internalID: -6592901308044525932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312f4391a5550550800000000000000
+      internalID: 6126397020556960063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy_epicweapons_pack_nobg_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a444d89329e8d850800000000000000
+      internalID: 6402123209404335273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
